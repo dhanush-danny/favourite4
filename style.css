@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background: linear-gradient(lightgreen 0%, green 50%, blue 100%);
+}
+
+#imgjk {
+    margin: 20px;
+}
+
+#imgsad {
+    margin: 20px;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 200px;
+    text-align: center;
+    margin: auto;
+}
